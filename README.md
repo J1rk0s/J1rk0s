@@ -1,5 +1,5 @@
 # About me
-I am an aspiring programmer who wants to change the world and my goals are beyond your understanding
+I am an aspiring programmer who wants to change the world with code
 <!--- To do: make this readme pretty --->
 
 # Some other things
