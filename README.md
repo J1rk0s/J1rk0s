@@ -23,7 +23,7 @@
 </table>
 
 ## Languages i use :100:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrisMakesRandomStuff&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=J1rk0s&layout=compact"/>
 
 ## My stats :bar_chart:
-<img src="https://github-readme-stats.vercel.app/api?username=KrisMakesRandomStuff&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api?username=J1rk0s&show_icons=true&theme=transparent"/>
