@@ -12,16 +12,6 @@
 </tr>
 </table>
 
-## My biggest project :sunglasses:
-<table>
-<th>
-  C#
-</th>
-<tr>
-  <td><a href="https://github.com/J1rk0s/c-sharp_Utils">C# Utils</a></td>
-</tr>
-</table>
-
 ## Languages i use :100:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J1rk0s&layout=compact"/>
 
