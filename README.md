@@ -9,6 +9,8 @@
 <tr>
 <td>C#</td>
 <td>C++</td>
+<td>Rust</td>
+<td>Python</td>
 </tr>
 </table>
 
