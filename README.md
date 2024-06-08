@@ -8,7 +8,7 @@
 <table>
 <tr>
 <td>C#</td>
-<td>C++</td>
+<td>C/C++</td>
 <td>Rust</td>
 <td>Python</td>
 </tr>
