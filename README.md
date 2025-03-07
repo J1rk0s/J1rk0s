@@ -1,21 +1,19 @@
-<h1 align="center">About me :upside_down_face:</h1>
+<h1 align="center">Hello there! :wave:</h1>
 
-## Hello :wave:
-- I love coding
-- I am currently learning c++ :smiling_face_with_tear:
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3cxa3V0MHZ3cWdpbTN3ODQxZmptbGQ3MDhzY3hicGtrdm1wc3h4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width=600 height=400>
+</div>
+
+## About me 🧑‍💻
+- I love coding and learning new things
+- I also like low level languages
+
 
 ## My favourite languages :heart_eyes:
-<table>
-<tr>
-<td>C#</td>
-<td>C/C++</td>
-<td>Rust</td>
-<td>Python</td>
-</tr>
-</table>
-
-## Languages i use :100:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=J1rk0s&layout=compact"/>
+[![Languages](https://skillicons.dev/icons?i=rust,cs,c,cpp,python)](https://skillicons.dev)
 
 ## My stats :bar_chart:
-<img src="https://github-readme-stats.vercel.app/api?username=J1rk0s&show_icons=true&theme=transparent"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=J1rk0s&show_icons=true&theme=buefy"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J1rk0s&layout=compact"/>
+</div>
